@@ -1,1 +1,1 @@
-# TAMU ECEN 689 - Hierarchical Reinforcement Learning project
+# TAMU ECEN 689
